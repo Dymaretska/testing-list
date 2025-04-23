@@ -1,6 +1,4 @@
 /**
- * vuex v3.0.1
- * (c) 2017 Evan You
  * @license MIT
  */
 (function (global, factory) {
